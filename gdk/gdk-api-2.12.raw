@@ -461,6 +461,7 @@
       <member cname="GDK_WINDOW_DIALOG" name="Dialog" />
       <member cname="GDK_WINDOW_TEMP" name="Temp" />
       <member cname="GDK_WINDOW_FOREIGN" name="Foreign" />
+      <member cname="GDK_WINDOW_OFFSCREEN" name="Offscreen" />
     </enum>
     <enum name="WindowTypeHint" cname="GdkWindowTypeHint" gtype="gdk_window_type_hint_get_type" type="enum">
       <member cname="GDK_WINDOW_TYPE_HINT_NORMAL" name="Normal" />
